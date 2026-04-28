@@ -1,0 +1,12 @@
+# Executáveis
+*.exe
+*.out
+
+# Arquivos compilados
+*.o
+
+# VS Code
+.vscode/
+
+# Outros
+*.log
